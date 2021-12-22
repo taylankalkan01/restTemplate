@@ -1,11 +1,13 @@
-#Binance:
+Binance API Documentation: https://binance-docs.github.io/apidocs/spot/en/
+
+#Binance postman test:
 
 BTC->https://api.binance.com/api/v3/avgPrice?symbol=BTCUSDT
 
 ETH->https://api.binance.com/api/v3/avgPrice?symbol=ETHUSDT
 <img width="865" alt="Postman-Binance" src="https://user-images.githubusercontent.com/69582787/147023241-d41348a2-334d-446a-a62f-6d2d1aa3bc6f.png">
 
-#LocalHost:
+#LocalHost postman test:
 
 BTC->http://localhost:8080/v1/btc/averagePrice/BTCUSDT
 
